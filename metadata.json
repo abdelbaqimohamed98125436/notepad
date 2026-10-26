@@ -1,0 +1,6 @@
+{
+  "name": "Quiet Notepad",
+  "description": "A faithful Windows Notepad experience with a hidden, high-performance writing intelligence and Arabic-English academic support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
